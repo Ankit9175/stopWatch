@@ -1,1 +1,1 @@
-A simple stopwatch implemented using HTML, CSS, and JavaScript. Check it Here: https://radiant-bunny-a6cd46.netlify.app/
+A simple stopwatch implemented using HTML, CSS, and JavaScript. Check it Here:  https://ankit9175.github.io/stopWatch/
